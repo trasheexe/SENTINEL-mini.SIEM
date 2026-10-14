@@ -1,0 +1,6 @@
+{"timestamp": "2026-10-14T12:19:01.016353+00:00", "ip": "192.0.2.10", "usuario": "teste", "evento": "LOGIN_FAILED"}
+{"timestamp": "2026-10-14T12:19:11.016353+00:00", "ip": "192.0.2.10", "usuario": "teste", "evento": "LOGIN_FAILED"}
+{"timestamp": "2026-10-14T12:19:21.016353+00:00", "ip": "192.0.2.10", "usuario": "teste", "evento": "LOGIN_FAILED"}
+{"timestamp": "2026-10-14T12:19:31.016353+00:00", "ip": "192.0.2.10", "usuario": "teste", "evento": "LOGIN_FAILED"}
+{"timestamp": "2026-10-14T12:19:41.016353+00:00", "ip": "192.0.2.10", "usuario": "teste", "evento": "LOGIN_FAILED"}
+{"timestamp": "2026-10-14T12:19:56.016353+00:00", "ip": "192.0.2.10", "usuario": "teste", "evento": "LOGIN_SUCCESS"}
